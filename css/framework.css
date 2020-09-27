@@ -1,0 +1,43 @@
+/* Start Framework */
+
+/* Direction */
+.fl-left{float:left}
+
+/* Button Style */
+.special-btn
+{
+    background:none;
+    padding: 10px 20px;
+    border: 1px solid #023e8a;
+    color:#023E8A;;
+    font-family: 'Caveat', cursive;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+    transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -o-transition: all 0.6s;
+}
+
+/* Heading Style */
+.title
+{
+    font-size: 21px;
+    font-family: 'Kadwa', serif;
+}
+
+/* Paragraph Style */
+.lead
+{
+    color:#555;
+    line-height: 1.5;
+    padding: 0 30px 0 0;
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-family: 'Sriracha', cursive;
+}
+
+/* Text Center */
+.text-center{text-align:center}
+/* End Framework */
